@@ -12,3 +12,5 @@ All'alba io vedrò le sette terre che il destino vuole farmi trovare davvero,
 Oh dolce melodia sprigioni vita e mi fai cantare forte un messaggio d'amore
 
 AHAHAHAHHAHAHAAHAHHAHAHAHAAHAHAHAHAHAH
+
+sto facendo altre modifiche a caso per capire come muovermi se ho diversi commit su 1 branch, ed uno di questi mi serve da riutilizzare su un'altra commit
