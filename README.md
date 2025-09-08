@@ -10,3 +10,5 @@ ciao sono lucia sono una sirena può sembrare strano ma è una storia vera la le
 Queste sono le modifiche di Nadia invece:
 All'alba io vedrò le sette terre che il destino vuole farmi trovare davvero,
 Oh dolce melodia sprigioni vita e mi fai cantare forte un messaggio d'amore
+
+AHAHAHAHHAHAHAAHAHHAHAHAHAAHAHAHAHAHAH
